@@ -31,8 +31,8 @@ $assignment_select_res = mysqli_query($conn, $select_query);
 <div class="container-fluid">
     <div class="row">
         <div class="col-xl-12 col-md-6 mb-4">
-            <div class="card shadow mb-4" style="border-radius: 40px;">
-                <div class="card-header py-3" style="border-radius: 40px;">
+            <div class="card shadow mb-4" >
+                <div class="card-header py-3" >
                     <div class="row">
 
                         <div class="col flex-grow-1">
