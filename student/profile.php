@@ -74,8 +74,8 @@ $student = mysqli_fetch_array(mysqli_query($conn, $select_query));
 <div class="container-fluid">
     <div class="row">
         <div class="col-xl-6 col-md-12 mx-auto">
-            <div class="card shadow mb-4" style="border-radius: 40px;">
-                <div class="card-header py-3" style="border-radius: 40px;">
+            <div class="card shadow mb-4" >
+                <div class="card-header py-3" >
                     <h6 class="m-0 font-weight-bold text-primary">Student Profile</h6>
                 </div>
                 <div class="card-body">
