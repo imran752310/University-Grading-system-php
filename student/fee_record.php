@@ -11,8 +11,8 @@ $std_id =  $_SESSION['id'];
 
     <div class="row">
         <div class="col-xl-10   ">
-            <div class="card shadow mb-4" style="border-radius: 40px;">
-                <div class="card-header py-3" style="border-radius: 40px;">
+            <div class="card shadow mb-4" >
+                <div class="card-header py-3">
                     <h6 class="m-0 font-weight-bold text-primary">Fee Record</h6>
                 </div>
                 <div class="card-body">
