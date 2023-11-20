@@ -5,10 +5,10 @@ Functional Requirements:
 The system will be used by FOUR MODULES,
 
 which are SUPER ADMIN, ADMIN, TEACHER and STUDENT. Each module is interconnected or integrated to each other. 
-SUPER ADMIN :=> Email :admin@gmail.com  Password : admin
-ADMIN :=> Email : imran  Password : imran
-TEACHER :=> Email : imran@gmail.com Password : imran  
-STUDENT :=> Email : ali@gmail.con Password :ali
+1. SUPER ADMIN :=> Email :admin@gmail.com  Password : admin
+2. ADMIN :=> Email : imran@gmail.com  Password : imran
+3. TEACHER :=> Email : imran@gmail.com Password : imran  
+4. STUDENT :=> Email : ali@gmail.con Password :ali
 
 Task Perform:
 1.	Admin can login using valid credentials and perform various task such as Adding a Teacher, Student and also can view them.
